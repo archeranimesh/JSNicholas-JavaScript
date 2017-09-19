@@ -36,3 +36,39 @@ Not working
 
 SublimeLinter.
 Not working in my sublime.
+
+GIST:-
+Gist for github.
+
+DocBlockr:-
+Comment.
+
+PlainTask.
+ctrl + ENter : new block
+@ for tags
+`--Tab` seperator.
+`ctrl + D` done.
+
+HTTP REQUESTER:-
+URL
+WITH get, gives the feedback.
+
+LiveReload:-
+
+
+COPY
+
+COPY: Relative Path to Project
+COPY as Tag A
+
+JOIN LINES:-
+Ctrl + J
+
+
+Split Window
+Shift + Ctrl + 1
+Key Bidings Groups, Cols
+
+Project Configuration,
+Folder exclude
+file exclude

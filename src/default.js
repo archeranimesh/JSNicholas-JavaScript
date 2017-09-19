@@ -1,5 +1,9 @@
+/**
+ * @param  {[type]}
+ * @return {[type]}
+ */
 function importJavaScript(src) {
     var tag = document.createElement('script');
     tag.src = src;
-    document.getElementsByTagName('head')[0].appendChild(tag)
+    document.getElementsByTagName('head')[0].appendChild(tag);
 }
